@@ -1,1 +1,1 @@
-# Alzheimer-s-Prediction-using-Handwriting-Kinematics
+# Alzheimer's-Prediction-using-Handwriting-Kinematics
